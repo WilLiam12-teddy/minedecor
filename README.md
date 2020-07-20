@@ -1,4 +1,4 @@
-WillAdmin Minetest mod
+MineDecor Minetest mod
 
 This mod adds some decorations to your buildings in the minetest_game.
 Have fun!
