@@ -1,0 +1,7 @@
+--minedecor by: WilLiam12
+
+A small mod that adds some furniture and decoration to your minetest_game.
+
+Have fun!
+
+I hope you like the mod.
